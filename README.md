@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sahilchaudhari1807/sahilchaudhari1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.E. Computer Engineering Student
+- 🌱 Currently learning Java, Spring Boot, React & DSA
+- 💼 Aspiring Full Stack Java Developer
+- 📫 Reach me on LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilchaudhari1807&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sahilchaudhari1807&theme=tokyonight)
+
+---
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchaudhari1807&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilchaudhari1807&theme=github_dark)
