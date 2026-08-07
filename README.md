@@ -1,151 +1,121 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Sahil%20Chaudhari&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Sahil%20Chaudhari&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-👋 Hi, I'm Sahil Chaudhari
 
 🚀 Full Stack Java Developer | B.Tech Computer Engineering Student
 
-<img src="https://komarev.com/ghpvc/?username=sahilchaudhari1807&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/sahil-chaudhari-291305327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a><a href="mailto:sc4418571@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=sahilchaudhari1807&style=for-the-badge"/>
 
 </div>
 
 👨‍💻 About Me
 
-🎓 Second-Year B.Tech Computer Engineering Student
+class Sahil {
+    String role = "Full Stack Java Developer";
+    String education = "B.Tech Computer Engineering";
+    String learning = "Spring Boot, React, DSA, System Design";
+    String goal = "Software Engineer @ Product-Based Company";
+}
 
-💻 Passionate Full Stack Java Developer
-
-🌱 Currently learning Spring Boot, React, DSA & System Design
-
-🚀 Building scalable Full Stack Applications
-
-🎯 Goal: Software Engineer at a Product-Based Company
-
-🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sahil-chaudhari-291305327" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sc4418571@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-🛠 Tech Stack
+🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,tailwind,mysql,mongodb,git,github,vscode,postman&perline=7"/>
 </p>
 
-📊 GitHub Stats
+📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilchaudhari1807&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchaudhari1807&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilchaudhari1807&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchaudhari1807&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sahilchaudhari1807&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=sahilchaudhari1807&theme=tokyonight&hide_border=true"/>
 </p>
-
-📈 GitHub Activity Graph
-
-
-
-🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahilchaudhari1807&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchaudhari1807&theme=tokyo-night&hide_border=true"/>
 </p>
 
-📋 GitHub Profile Summary
-
-After adding the workflow I'll generate later, these cards will appear automatically.
-
-/profile-summary-card-output/
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sahilchaudhari1807&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
 
 ⭐ Featured Projects
 
+Project
+
+Stack
+
+Status
+
 🚀 PrimeTrade
 
-Tech: Spring Boot • React • MySQL
+Spring Boot • React • MySQL
 
-Description: Full Stack Trading Platform
+✅ Active
 
 ❤️ Matrimonial App
 
-Tech: Spring Boot • React • JWT
+Spring Boot • React • JWT
 
-Description: Full Stack Matrimony Platform
+✅ Active
 
 🎉 Event ERP
 
-Tech: Spring Boot • React
+Spring Boot • React
 
-Description: Enterprise Event Management System
+🚧 Building
 
 📰 News App
 
-Tech: React • News API
+React • News API
 
-Description: Live News Application
+✅ Completed
 
 📋 Task Backend
 
-Tech: Spring Boot
+Spring Boot REST API
 
-Description: REST API Backend
+✅ Completed
 
 🎬 Movie Frontend
 
-Tech: React
+React
 
-Description: Movie Search Application
+✅ Completed
+
+Add repository links once all repositories are public.
 
 📚 Currently Learning
 
-Spring Security
+<p align="center">
 
-JWT Authentication
 
-Docker
 
-Microservices
-
-System Design
-
-Advanced DSA
+</p>
 
 🏅 Coding Profiles
 
-LeetCode: Add your username later
+🟡 LeetCode (coming soon)
 
-GeeksforGeeks: Add your username later
+🟢 GeeksforGeeks (coming soon)
 
 🐍 Contribution Snake
 
-This will appear after adding the snake.yml GitHub Action.
-
-💬 Quote
-
-"Consistency beats intensity."
+Add after enabling the snake.yml workflow.
 
 <div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting!
 
-If you like my work, consider giving a ⭐ to my repositories!
+"Consistency beats intensity."
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06B6D4,100:4F46E5"/>
