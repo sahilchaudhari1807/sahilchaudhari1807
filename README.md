@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:000000,100:111111&text=SAHIL%20CHAUDHARI&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20JAVA%20DEVELOPER&descSize=16&descAlignY=68&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:F6F8FA,100:E5E7EB&text=SAHIL%20CHAUDHARI&fontSize=46&fontColor=24292F&fontAlignY=42&desc=FULL%20STACK%20JAVA%20DEVELOPER&descSize=16&descAlignY=68&animation=fadeIn"/>
 
 <br/>
 
@@ -12,15 +12,15 @@ Building scalable applications. Learning backend engineering. Turning ideas into
 <br/>
 
 <a href="https://www.linkedin.com/in/sahil-chaudhari-291305327">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-30363D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 <a href="mailto:sc4418571@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EMAIL-30363D?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sahilchaudhari1807&style=flat-square&color=000000&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=sahilchaudhari1807&style=flat-square&color=30363D&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -62,43 +62,43 @@ I am passionate about backend engineering and full-stack development. I enjoy bu
 **LANGUAGES**
 
 <p align="center">
-<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JAVA-30363D?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-30363D?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HTML5-30363D?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS3-30363D?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
 </p>
 
 **BACKEND DEVELOPMENT**
 
 <p align="center">
-<img src="https://img.shields.io/badge/SPRING_BOOT-000000?style=for-the-badge&logo=springboot&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/HIBERNATE-000000?style=for-the-badge&logo=hibernate&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SPRING_BOOT-30363D?style=for-the-badge&logo=springboot&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HIBERNATE-30363D?style=for-the-badge&logo=hibernate&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NODE.JS-30363D?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EXPRESS-30363D?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
 </p>
 
 **FRONTEND DEVELOPMENT**
 
 <p align="center">
-<img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/TAILWIND_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/REACT-30363D?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/TAILWIND_CSS-30363D?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VITE-30363D?style=for-the-badge&logo=vite&logoColor=FFFFFF"/>
 </p>
 
 **DATABASES**
 
 <p align="center">
-<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MYSQL-30363D?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MONGODB-30363D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
 </p>
 
 **TOOLS & PLATFORMS**
 
 <p align="center">
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GIT-30363D?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-30363D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/POSTMAN-30363D?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS_CODE-30363D?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
 </p>
 
 ---
@@ -134,7 +134,6 @@ User authentication, profile management and matrimonial matching functionality.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -165,7 +164,6 @@ News application built using React and external API integration.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -205,13 +203,13 @@ Document upload and printing management application.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilchaudhari1807&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilchaudhari1807&show_icons=true&hide_border=true&bg_color=F6F8FA&title_color=24292F&text_color=64748B&icon_color=30363D&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchaudhari1807&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchaudhari1807&layout=compact&hide_border=true&bg_color=F6F8FA&title_color=24292F&text_color=64748B"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sahilchaudhari1807&background=000000&border=262626&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=sahilchaudhari1807&background=F6F8FA&border=E5E7EB&ring=30363D&fire=64748B&currStreakLabel=24292F&sideLabels=64748B&currStreakNum=24292F&sideNums=24292F&dates=64748B&hide_border=true"/>
 
 </div>
 
@@ -221,7 +219,7 @@ Document upload and printing management application.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchaudhari1807&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchaudhari1807&bg_color=F6F8FA&color=24292F&line=64748B&point=30363D&area=true&area_color=E5E7EB&hide_border=true"/>
 
 </div>
 
@@ -231,7 +229,7 @@ Document upload and printing management application.
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sahilchaudhari1807&theme=onestar&no-frame=true&column=6&margin-w=10"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sahilchaudhari1807&theme=flat&no-frame=true&column=6&margin-w=10"/>
 
 </div>
 
@@ -275,7 +273,7 @@ Document upload and printing management application.
 Interested in collaborating or discussing software development?
 
 <a href="https://www.linkedin.com/in/sahil-chaudhari-291305327">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LET'S_CONNECT-30363D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
@@ -288,6 +286,6 @@ Interested in collaborating or discussing software development?
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=000000&text=KEEP%20BUILDING.&fontColor=FFFFFF&fontSize=25"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:E5E7EB,100:F6F8FA&text=KEEP%20BUILDING.&fontColor=24292F&fontSize=25"/>
 
 </div>
