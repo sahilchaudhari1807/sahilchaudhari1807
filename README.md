@@ -1,21 +1,21 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000000,100:111111&text=SAHIL%20CHAUDHARI&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=FULL%20STACK%20JAVA%20DEVELOPER&descSize=15&descAlignY=70&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:000000,100:111111&text=SAHIL%20CHAUDHARI&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20JAVA%20DEVELOPER&descSize=16&descAlignY=68&animation=fadeIn"/>
 
 <br/>
 
-**B.Tech IT Student @ DJSCE '29**
+### B.Tech IT Student @ DJSCE '29
 
 Building scalable applications. Learning backend engineering. Turning ideas into code.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/sahil-chaudhari-291305327">
-<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 <a href="mailto:sc4418571@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
@@ -26,7 +26,7 @@ Building scalable applications. Learning backend engineering. Turning ideas into
 
 ---
 
-## 01 / ABOUT ME
+<h2 align="center">01 / ABOUT ME</h2>
 
 ```java
 public class Sahil {
@@ -43,75 +43,86 @@ public class Sahil {
 
     String currentlyLearning = "System Design & DSA";
 
-    String goal = "Software Engineer @ Product-Based Company";
-
+    String goal =
+        "Software Engineer @ Product-Based Company";
 }
 ```
 
 I am passionate about backend engineering and full-stack development. I enjoy building practical applications, designing REST APIs and understanding how scalable software systems work.
 
----
-
-## 02 / TECHNICAL ARSENAL
-
-**Languages**
-
-<p>
-<img src="https://img.shields.io/badge/JAVA-111111?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-**Backend Development**
-
-<p>
-<img src="https://img.shields.io/badge/SPRING_BOOT-111111?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/HIBERNATE-111111?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/NODE.JS-111111?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/EXPRESS-111111?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-**Frontend Development**
-
-<p>
-<img src="https://img.shields.io/badge/REACT-111111?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TAILWIND-111111?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/VITE-111111?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-**Databases & Tools**
-
-<p>
-<img src="https://img.shields.io/badge/MYSQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MONGODB-111111?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSTMAN-111111?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+- Building full-stack applications using Spring Boot and React.
+- Exploring backend architecture and application security.
+- Practising Data Structures and Algorithms.
+- Interested in scalable software engineering.
 
 ---
 
-## 03 / SELECTED PROJECTS
+<h2 align="center">02 / TECHNICAL ARSENAL</h2>
+
+**LANGUAGES**
+
+<p align="center">
+<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+</p>
+
+**BACKEND DEVELOPMENT**
+
+<p align="center">
+<img src="https://img.shields.io/badge/SPRING_BOOT-000000?style=for-the-badge&logo=springboot&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HIBERNATE-000000?style=for-the-badge&logo=hibernate&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+</p>
+
+**FRONTEND DEVELOPMENT**
+
+<p align="center">
+<img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/TAILWIND_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=FFFFFF"/>
+</p>
+
+**DATABASES**
+
+<p align="center">
+<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
+</p>
+
+**TOOLS & PLATFORMS**
+
+<p align="center">
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
+</p>
+
+---
+
+<h2 align="center">03 / SELECTED PROJECTS</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01. PrimeTrade
+<h3>01. PrimeTrade</h3>
 
 **Full Stack Application**
 
 Spring Boot · React · MySQL
 
-A full-stack application focused on backend development and frontend integration.
+Full-stack application focused on backend development and frontend integration.
 
 **Status:** Active
 
 </td>
 <td width="50%" valign="top">
 
-### 02. Matrimonial App
+<h3>02. Matrimonial App</h3>
 
 **Full Stack Application**
 
@@ -123,10 +134,11 @@ User authentication, profile management and matrimonial matching functionality.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 03. Event ERP
+<h3>03. Event ERP</h3>
 
 **Management System**
 
@@ -139,24 +151,25 @@ An event management system currently under development.
 </td>
 <td width="50%" valign="top">
 
-### 04. News App
+<h3>04. News App</h3>
 
 **Frontend Application**
 
 React · News API
 
-A news application built using React and external API integration.
+News application built using React and external API integration.
 
 **Status:** Completed
 
-[View Repository](https://github.com/sahilchaudhari1807/News-App)
+<a href="https://github.com/sahilchaudhari1807/News-App">View Repository →</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 05. Task Backend
+<h3>05. Task Backend</h3>
 
 **REST API**
 
@@ -169,7 +182,7 @@ Backend development and REST API practice.
 </td>
 <td width="50%" valign="top">
 
-### 06. PrintEase
+<h3>06. PrintEase</h3>
 
 **Printing Management System**
 
@@ -179,7 +192,8 @@ Document upload and printing management application.
 
 **Status:** Completed
 
-[Frontend](https://github.com/sahilchaudhari1807/PrintEase_Frontend) · [Backend](https://github.com/sahilchaudhari1807/PrintEase_Backend_2121)
+<a href="https://github.com/sahilchaudhari1807/PrintEase_Frontend">Frontend</a> ·
+<a href="https://github.com/sahilchaudhari1807/PrintEase_Backend_2121">Backend</a>
 
 </td>
 </tr>
@@ -187,7 +201,7 @@ Document upload and printing management application.
 
 ---
 
-## 04 / GITHUB ANALYTICS
+<h2 align="center">04 / GITHUB ANALYTICS</h2>
 
 <div align="center">
 
@@ -203,7 +217,7 @@ Document upload and printing management application.
 
 ---
 
-## 05 / CONTRIBUTION ACTIVITY
+<h2 align="center">05 / CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
@@ -213,23 +227,52 @@ Document upload and printing management application.
 
 ---
 
-## 06 / CURRENTLY EXPLORING
-
-| Area | Focus |
-|---|---|
-| Backend | Advanced Java & Spring Boot |
-| Security | Spring Security & JWT |
-| Frontend | React & Modern UI |
-| Problem Solving | DSA |
-| Architecture | System Design |
-
----
-
-## 07 / CONNECT WITH ME
+<h2 align="center">06 / GITHUB TROPHIES</h2>
 
 <div align="center">
 
-**Have an interesting idea? Let's connect and build something.**
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sahilchaudhari1807&theme=onestar&no-frame=true&column=6&margin-w=10"/>
+
+</div>
+
+---
+
+<h2 align="center">07 / CURRENTLY LEARNING</h2>
+
+<table>
+<tr>
+<th>AREA</th>
+<th>FOCUS</th>
+</tr>
+<tr>
+<td>Backend</td>
+<td>Advanced Java & Spring Boot</td>
+</tr>
+<tr>
+<td>Security</td>
+<td>Spring Security & JWT</td>
+</tr>
+<tr>
+<td>Frontend</td>
+<td>React & Modern UI</td>
+</tr>
+<tr>
+<td>Problem Solving</td>
+<td>Data Structures & Algorithms</td>
+</tr>
+<tr>
+<td>Architecture</td>
+<td>System Design</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">08 / CONNECT WITH ME</h2>
+
+<div align="center">
+
+Interested in collaborating or discussing software development?
 
 <a href="https://www.linkedin.com/in/sahil-chaudhari-291305327">
 <img src="https://img.shields.io/badge/LET'S_CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
@@ -237,12 +280,14 @@ Document upload and printing management application.
 
 <br/><br/>
 
-*"Consistency beats intensity."*
+**"Consistency beats intensity."**
 
 <br/>
 
 <sub>DESIGNED & BUILT BY SAHIL CHAUDHARI · 2026</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=000000"/>
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=000000&text=KEEP%20BUILDING.&fontColor=FFFFFF&fontSize=25"/>
 
 </div>
